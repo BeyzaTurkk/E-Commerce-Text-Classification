@@ -32,7 +32,7 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import string
 from sklearn.feature_extraction.text import TfidfVectorizer
-print("başladım")
+
 
 nltk.download("punkt_tab")
 nltk.download("stopwords")
